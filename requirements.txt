@@ -1,0 +1,2 @@
+# Char-level Shakespeare / GPT-style demos (bigram.py, shakespear.py)
+torch>=2.0
